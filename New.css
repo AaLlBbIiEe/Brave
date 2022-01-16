@@ -1,0 +1,29 @@
+.arlinks{
+    list-style-type: none;
+    background-color: darkolivegreen;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+nav li{
+    list-style-type: none;
+    float: left;
+}
+nav li a{
+    padding: 15px 15px;
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+nav li a:hover{
+    background-color: greenyellow;
+}
+section .anime{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    box-shadow: rgba(0, 0, 0, 0.8);
+}
+section .anime img{
+    padding: 20px;
+}
