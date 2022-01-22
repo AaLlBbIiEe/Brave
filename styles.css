@@ -4,6 +4,11 @@
   padding: 16px;
   background-color: aqua;
 }
+.container img{
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
 
 .Filled2{
   width: 100%;
